@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CASPER\\Desktop\\AgacUygulama\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{594D3B70-5FD5-4DB3-90DF-A2107FB6C045}|AgacUygulama\\AgacUygulama.csproj|C:\\Users\\CASPER\\Desktop\\AgacUygulama\\agacuygulama\\ikiliagacdugumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594D3B70-5FD5-4DB3-90DF-A2107FB6C045}|AgacUygulama\\AgacUygulama.csproj|solutionrelative:agacuygulama\\ikiliagacdugumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594D3B70-5FD5-4DB3-90DF-A2107FB6C045}|AgacUygulama\\AgacUygulama.csproj|c:\\users\\casper\\desktop\\agacuygulama\\agacuygulama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594D3B70-5FD5-4DB3-90DF-A2107FB6C045}|AgacUygulama\\AgacUygulama.csproj|solutionrelative:agacuygulama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594D3B70-5FD5-4DB3-90DF-A2107FB6C045}|AgacUygulama\\AgacUygulama.csproj|C:\\Users\\CASPER\\Desktop\\AgacUygulama\\agacuygulama\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594D3B70-5FD5-4DB3-90DF-A2107FB6C045}|AgacUygulama\\AgacUygulama.csproj|solutionrelative:agacuygulama\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594D3B70-5FD5-4DB3-90DF-A2107FB6C045}|AgacUygulama\\AgacUygulama.csproj|C:\\Users\\CASPER\\Desktop\\AgacUygulama\\agacuygulama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{594D3B70-5FD5-4DB3-90DF-A2107FB6C045}|AgacUygulama\\AgacUygulama.csproj|solutionrelative:agacuygulama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IkiliAgacDugumu.cs",
+              "DocumentMoniker": "C:\\Users\\CASPER\\Desktop\\AgacUygulama\\AgacUygulama\\IkiliAgacDugumu.cs",
+              "RelativeDocumentMoniker": "AgacUygulama\\IkiliAgacDugumu.cs",
+              "ToolTip": "C:\\Users\\CASPER\\Desktop\\AgacUygulama\\AgacUygulama\\IkiliAgacDugumu.cs",
+              "RelativeToolTip": "AgacUygulama\\IkiliAgacDugumu.cs",
+              "ViewState": "AQIAADAAAABAMzMzMzMjwEQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:46:04.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\CASPER\\Desktop\\AgacUygulama\\AgacUygulama\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AgacUygulama\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\CASPER\\Desktop\\AgacUygulama\\AgacUygulama\\Form1.Designer.cs",
+              "RelativeToolTip": "AgacUygulama\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:46:04.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\CASPER\\Desktop\\AgacUygulama\\AgacUygulama\\Form1.cs",
+              "RelativeDocumentMoniker": "AgacUygulama\\Form1.cs",
+              "ToolTip": "C:\\Users\\CASPER\\Desktop\\AgacUygulama\\AgacUygulama\\Form1.cs",
+              "RelativeToolTip": "AgacUygulama\\Form1.cs",
+              "ViewState": "AQIAABwAAAAAzczMzMwiwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:46:04.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\CASPER\\Desktop\\AgacUygulama\\AgacUygulama\\Form1.cs",
+              "RelativeDocumentMoniker": "AgacUygulama\\Form1.cs",
+              "ToolTip": "C:\\Users\\CASPER\\Desktop\\AgacUygulama\\AgacUygulama\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "AgacUygulama\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:46:04.445Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
